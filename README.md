@@ -12,3 +12,8 @@ For this part we will be using - `D1_non_linearly_seperable.csv`, `D2_linearly_s
 ## B. Splitting your dataset and plotting 3D graphs.
 
 ## C. Implementing a shallow neural network based on the given datasets.
+
+
+# Part 2:
+
+
