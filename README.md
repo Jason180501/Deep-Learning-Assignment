@@ -1,4 +1,4 @@
-# Implementing Logistic Regression from Scratch
+# Implementing Your Own Neural Network from Scratch
 
 This repository is based on a Deep Learning assignment being implemented on designing your own neural network from scratch.
 
