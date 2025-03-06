@@ -1,4 +1,4 @@
-# Deep-Learning-Assignment
+# Implementing Logistic Regression from Scratch
 
 This repository is based on a Deep Learning assignment being implemented on designing your own neural network from scratch.
 
@@ -15,5 +15,9 @@ For this part we will be using - `D1_non_linearly_seperable.csv`, `D2_linearly_s
 
 
 # Part 2:
+
+The datasets used are provided in the Datasets folder.
+For this part we will be using - `mini_frontal_dataset` and `Full_Facial_Dataset`. 
+These datasets consists of facial images of celebrities.
 
 
